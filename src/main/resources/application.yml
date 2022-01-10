@@ -11,3 +11,4 @@ spring:
       server:
         git:
           uri: https://github.com/JGasconRueda/SpringCloudConfig-GitRepository
+          clone-on-start: true
